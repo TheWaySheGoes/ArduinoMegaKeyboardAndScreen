@@ -1,10 +1,4 @@
-/*
- * Lab1.asm
- *
- * Created: 2018-11-xx
- *
- * Created by N.N, for the course DA346A at Malmo University.
- */
+
  
 ;==============================================================================
 ; Definitions of registers, etc. ("constants")
